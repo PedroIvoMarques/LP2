@@ -15,7 +15,7 @@
 
 - Block-Chain
 
-#### Sou também monitor de fundamentos e participei de projeto de iniciação com a professora Rosa sobre RV/RA e Agentes Inteligentes, e brevemente com a Professora Karla , sobre simulação e machine learning.
+#### Fui monitor de fundamentos e participei de projeto de iniciação com a professora Rosa sobre RV/RA e Agentes Inteligentes, e brevemente com a Professora Karla , sobre simulação e machine learning.
 
 
 ## Exercicios:
